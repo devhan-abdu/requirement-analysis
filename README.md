@@ -79,6 +79,26 @@ Describe how the system performs.
 - **Usability:** Fully responsive and easy to navigate.
 - **Maintainability:** Modular architecture for easy updates.
 
+---##  Use Case Diagrams
+
+###  What Are Use Case Diagrams?
+
+A **Use Case Diagram** is a visual representation used in **requirement analysis** to capture the functional aspects of a system. It illustrates how **actors** (users or external systems) interact with the system and what functionalities (use cases) the system provides.
+
+###  Benefits of Use Case Diagrams
+
+- Clarifies system requirements and boundaries.
+- Identifies primary system users and their goals.
+- Helps developers and stakeholders understand interactions.
+- Supports communication between technical and non-technical team members.
+- Serves as a foundation for designing and testing the system.
+
+---
+
+### 📌 Use Case Diagram for Booking System
+
+![Booking System Use Case Diagram](images/alx-booking-uc.png)
+
 ---
 
 ## Acceptance Criteria
