@@ -97,7 +97,7 @@ A **Use Case Diagram** is a visual representation used in **requirement analysis
 
 ### 📌 Use Case Diagram for Booking System
 
-![Booking System Use Case Diagram](images/alx-booking-uc.png)
+![Booking System Use Case Diagram](/alx-booking-uc.png)
 
 ---
 
